@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#34C6BE</color>
+    <color name="colorPrimaryDark">#13C7A3</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="boostCampRed">#B9062F</color>
+    <color name="boostCampActionColor">#31E0C1</color>
+    <color name="boostCampName">#FFFFFF</color>
+</resources>
